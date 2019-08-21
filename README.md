@@ -2,7 +2,7 @@
   JSONSubscribe
 </h1>
 
-<h4 align="center">Subscribes to all JSON API events from the LCU.
+<h4 align="center">Subscribes to all JSON API events from the LCU. </center>
 
 
 ![screenshot](https://raw.githubusercontent.com/H-Bains/JSONSubscribe/master/JSONSubscribe/JSONSubscribe.gif)
